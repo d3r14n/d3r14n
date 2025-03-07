@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I’m <a href="https://github.com/d3r14n/">Derian J. Hndz L.</a> <img src="https://user-images.githubusercontent.com/21112840/194974573-5f30eb24-9445-4ac9-9d21-c980ef33b4e8.gif" width=50px></h1>
 <h3>I'm a Software Engineer passionate about Game Development.</h3>
 
-Currently working at <i>Colegio Wexford</i> as <b>Game Developer Jr.</b>
+Currently working at <i>Santander</i> as a <b>Data Analyst in Machine Learning</b>
 
 - 🎮 I’m interested in game development, web development and software engineering.
 - 🎭 Also, I'm an actor and a musician. I'm still learning but I am very passionate about it.
-- ⌨️ I’m currently working with Unity, and learning new web technologies to use.
-- 📫 If you're interested in collaborate with me, you can reach me sending me an e-mail at **nairedriaj@hotmail.com**.
+- ⌨️ I’m working with Godot to make games and also learning new web technologies to use.
+- 📫 If you're interested to collaborate with me, you can reach me sending me an e-mail at **nairedriaj@hotmail.com**.
 
 
  <p align="center">
